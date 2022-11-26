@@ -1,4 +1,4 @@
-👋 Sheng Fu is currently a Postdoctoral Fellow in the National Institutes of Health. \
+### 👋 Sheng Fu is currently a Postdoctoral Fellow in the National Institutes of Health. \
 ✨ My research interest includes statistical machine learning, integration analysis, biostatistics and genetics.
 
 <!--
